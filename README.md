@@ -1,5 +1,6 @@
 # setClusterOverride.sh
 CURL against Icon API to disable/enable clusterOverride
+[currently this script is hard-coded to disable ClusterOverride]
 
 Notes*
 Customer will need a Linux or MAC machine with CURL utility installed. 

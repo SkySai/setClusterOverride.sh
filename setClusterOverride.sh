@@ -17,7 +17,7 @@ fi
 # 0 = SIP is not enabled
 # 1 = SIP is enabled
 bOverrideClusterDiscovery="0"
-cssTargetNode='169.46.49.132'
+cssTargetNode=''
 bIsStatsCollectionEnabled='1'
 #eContextType="0"
 
